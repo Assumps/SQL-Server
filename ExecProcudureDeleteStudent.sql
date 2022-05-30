@@ -1,0 +1,2 @@
+SELECT * FROM [Student]
+EXEC spDeleteStudent 'f8947823-e783-4776-8604-801cc5bbc120'
